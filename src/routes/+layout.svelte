@@ -9,7 +9,7 @@
 		{ href: '/history', label: 'おみくじ記録' }
 	];
 
-	const logoUrl = '【ここに画像URLを入れる】';
+	const logoUrl = 'https://iyfsmvv6g0olnjc2.public.blob.vercel-storage.com/omikuji_image/logo.png';
 </script>
 
 <div class="shell">
